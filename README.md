@@ -20,6 +20,10 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
+```
+Name:Nandhakumar G R
+Register no:212222100029
+```
 ### Client.py
 ```python
 import socket
@@ -48,8 +52,10 @@ while(1):
 
 ## OUTPUT:
 ### Client.py
+![Nandhakumar G R](https://github.com/user-attachments/assets/5f301f81-83c9-4c0f-b775-ec225dd2ea2f)
 
 ### Server.py
+![Nandhakumar G R](https://github.com/user-attachments/assets/7029b6e1-8ccf-444a-bbb0-493884c7d8da)
 
 ## RESULT:
 The program is executed successfully
